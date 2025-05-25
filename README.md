@@ -6,13 +6,5 @@ O jogador deve atravessar a tela e cruzar com a linha de chegadar.
 Sem deixar que o quadrado atinja ele.
 
 ## Mídias
-<img src="https://github.com/user-attachments/assets/143ad4e2-f19f-4141-bbae-8297046dbb9e" width=400 >
 
-
-<video width="560" controls>
-  <source src="Pygame - Jogo 1.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5.
-</video>
-
-
-
+https://github.com/user-attachments/assets/1c633858-0c7a-4ea3-94bb-ecc8bd4e38a3
